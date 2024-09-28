@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Flutter**
 
+- 📫 How to reach me zeyadali6060@gmail.com
+
 - 📄 Know about my experiences(CV) [https://drive.google.com/file/d/18r9rWnw32geYrsxO8HUS0iJ8yvPldjVA/view?usp=sharing](https://drive.google.com/file/d/18r9rWnw32geYrsxO8HUS0iJ8yvPldjVA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
