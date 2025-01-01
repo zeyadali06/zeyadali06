@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadali06&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadali06" /> </p>
 
-- 🔭 I’m currently working on **Cellula Internship Tasks**
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me zeyadali6060@gmail.com
